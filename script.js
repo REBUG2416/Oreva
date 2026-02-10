@@ -238,5 +238,5 @@ function setupMusicPlayer() {
             bgMusic.pause();
             musicToggle.textContent = config.music.startText;
         }
-    });
+    }); 
 } 
